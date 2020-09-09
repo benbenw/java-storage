@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.113.1](https://www.github.com/googleapis/java-storage/compare/v1.113.0...v1.113.1) (2020-09-09)
+
+
+### Dependencies
+
+* update dependency com.google.apis:google-api-services-storage to v1-rev20200814-1.30.10 ([#499](https://www.github.com/googleapis/java-storage/issues/499)) ([af91d7d](https://www.github.com/googleapis/java-storage/commit/af91d7da4117fb22992d6a860af61f72906e0aa1))
+
 ## [1.113.0](https://www.github.com/googleapis/java-storage/compare/v1.112.0...v1.113.0) (2020-09-03)
 
 
